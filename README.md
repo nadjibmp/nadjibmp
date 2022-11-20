@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nadjibmp
 - 👀 I’m interested in JavaScript, ReactJs, 
-- 🌱 I’m currently learning NodeJs
-- 💞️ I’m looking to collaborate on NodeJs projects.
+- 🌱 I’m currently learning TypeScript.
+- 💞️ I’m looking to collaborate on ReactJs projects.
 - 📫 You can reach Me on facebook , this is my id: `ronaldo.cristiano.923724`
 
 <!---
